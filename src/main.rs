@@ -1,5 +1,5 @@
-mod enum_result;
+mod error_handling;
 
 fn main() {
-    enum_result::run();
+    error_handling::run();
 }
