@@ -1,5 +1,5 @@
-mod error_handling;
+mod channels;
 
 fn main() {
-    error_handling::run();
+    channels::run();
 }
